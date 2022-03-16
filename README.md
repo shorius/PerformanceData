@@ -5,7 +5,7 @@
 
 ### 介面示意圖：
 
-<img src=https://user-images.githubusercontent.com/76928680/158659231-d8b0ed94-55ec-488c-bb86-483075de0df0.png width=30% />
+<img src=https://user-images.githubusercontent.com/76928680/158659231-d8b0ed94-55ec-488c-bb86-483075de0df0.png width=50% />
 
 
 
